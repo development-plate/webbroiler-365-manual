@@ -36,6 +36,15 @@ Vorgabewerte sind Ihre Ausgaben, die über die Mastdurchgänge nicht oder wenig 
 ![Vorgabewerte bearbeiten](images/vorgabewerte.jpeg)
 
 ## Futter
+![Futter](images/futter.jpeg)
+Hier verwalten Sie ihre Futterprodukte. Unter „Futter-Hersteller verwalten“ legen Sie Ihre Hersteller an.
+
+Im unteren Abschnitt legen Sie ein neues Futter-Produkt an. Der Hersteller wird hier als Liste angezeigt. Sollte dieser fehlen, dann muss dieser in Futter-Hersteller angelegt werden.
+
+Im oberen Abschnitt ist eine Tabelle mit Futter-Hersteller(n) und deren Produkte. Diese können Sie nachträglich noch ändern.
+
+Beachten Sie bitte, dass diese Änderungen nicht auf die Mastdurchgänge auswirken. Beim Anlegen neuer Mastdurchgänge werden die Angaben dorthin übernommen und müssen auch dort angepasst werden.
+
 # Vorgang
 ## Mastdurchgang
 # Berichtswesen
