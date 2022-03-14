@@ -26,6 +26,13 @@ Auf der Benutzerseite können Sie ihr Passwort ändern. Geben Sie in beide Felde
 Hier geben Sie ihre Betriebsangaben und allgemeine Vorgabewerte ein.
 
 ## Ställe und deren Vorgabewerte
+![Ställe und deren Vorgabewerte](images/staelle.jpeg)
+Diese Seite besteht aus zwei Teilen. Der erste Teil ist eine Tabelle und enthält alle Ställe. Mit dem Button „Vorgabewerte bearbeiten“ können Sie die Vorgabewerte bearbeiten. Näheres dazu kommt später.
+
+Mit dem zweiten Teil können Sie ein Stall hinzufügen. Sobald ein neuer Stall hinzugefügt wurde, können Sie in der Tabelle die Vorgabewerte bearbeiten.
+
+Vorgabewerte sind Ihre Ausgaben, die über die Mastdurchgänge nicht oder wenig ändern und betreffen nur den ausgewählten Stall. Andere Ställe können andere Vorgabewerte haben. Diese Werte werden für einen neuen Mastdurchgang herangezogen und Änderungen werden dann auch nur im Mastdurchgang berücksichtigt.
+
 ## Futter
 # Vorgang
 ## Mastdurchgang
