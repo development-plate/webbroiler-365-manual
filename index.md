@@ -33,6 +33,8 @@ Mit dem zweiten Teil können Sie ein Stall hinzufügen. Sobald ein neuer Stall h
 
 Vorgabewerte sind Ihre Ausgaben, die über die Mastdurchgänge nicht oder wenig ändern und betreffen nur den ausgewählten Stall. Andere Ställe können andere Vorgabewerte haben. Diese Werte werden für einen neuen Mastdurchgang herangezogen und Änderungen werden dann auch nur im Mastdurchgang berücksichtigt.
 
+![Vorgabewerte bearbeiten](images/vorgabewerte.jpeg)
+
 ## Futter
 # Vorgang
 ## Mastdurchgang
