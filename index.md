@@ -47,5 +47,35 @@ Beachten Sie bitte, dass diese Änderungen nicht auf die Mastdurchgänge auswirk
 
 # Vorgang
 ## Mastdurchgang
+![Mastdurchgänge](images/mastdurchgang.jpeg)
+In der Tabelle befindet sich eine Auflistung früherer Mastdurchgänge und mit „Bearbeiten“ können Sie diese auch nachträglich ändern.
+
+Mit „Mastdurchgang anlegen“ erstellen wir mit einem Assistenten einen neuen Mastdurchgang.
+
+![Mastchurchgang anlegen](images/mastdurchgang_anlegen1.jpeg)
+Wählen Sie hier ihren Stall und gebe eine Mastdurchgangsnummer an. Danach klicken Sie auf „Mastdurchgang anlegen“.
+
+![Stall Vorgabewerte](images/mastdurchgang_anlegen2.jpeg)
+Vorgabewerte wurden aus den Stammdaten übernommen und bereits gespeichert. Sollten Sie Änderungen vornehmen, dann bitte danach auf „speichern“ klicken. Ansonsten können Sie mit „weiter zu Futter-Vorgaben“ wechseln.
+
+![Futter Vorgaben](images/mastdurchgang_anlegen3.jpeg)
+Mit Futter Vorgaben bauen Sie eine Liste mit Futter und deren Preis zusammen. Diese werden in späterem Schritt herangezogen. Gehen Sie weiter mit „weiter zu Einstallung“.
+
+![Einstallung](images/mastdurchgang_anlegen4.jpeg)
+Unter Einstallung geben Sie alle relevanten zur Einstallung und klicken danach auf „speichern“. Wenn Sie damit fertig sind, wechseln Sie zur nächsten Seite mit „weiter zu Futter“.
+
+![Futter](images/mastdurchgang_anlegen5.jpeg)
+Hier kommen die Futter-Vorgaben vor ein paar Schritten zum Einsatz. Wählen Sie Futter aus und die Menge. Mit „speichern“ wird diese in die obige Tabelle übernommen.
+
+Sobald Sie damit fertig sind, gelangen Sie mit „weiter zur Ausstallung“.
+
+![Ausstallung](images/mastdurchgang_anlegen6.jpeg)
+Auf diese Seite können Sie auch mehrere Ausstallungen vornehmen. Geben Sie alle relevanten Angaben an und klicken auf „speichern“. Danach erscheint ein Eintrag in der obigen Tabelle. Wenn Sie damit fertig sind, können Sie ihren „Mastbericht anzeigen“ lassen. Mastbericht wird weiter unten beschrieben.
+
 # Berichtswesen
 ## Mastdurchgang
+![Berichtswesen für Mastdurchgänge](images/berichtswesen_fuer_mastdurchgaenge.jpeg)
+Hier finden Sie eine Übersicht aller Mastdurchgänge. Durch „anzeigen“ gelangen Sie zu den jeweiligen Mastbericht.
+
+![Mastbericht](images/mastbericht.jpeg)
+Hinweis vorweg, die Zahlen sind ausgedacht. Im Allgemein haben Sie hier einen kompletten Bericht zum Mastdurchgang mit Einnahmen, Ausgaben und Erfolgszahlen.
